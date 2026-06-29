@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Application
+    x:Class="TikTacToe.App.App"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <Color x:Key="PageBackground">#FFF8F0</Color>
+            <Color x:Key="Ink">#202124</Color>
+            <Color x:Key="Accent">#136F63</Color>
+            <Color x:Key="CellBackground">#FFFFFF</Color>
+            <Color x:Key="CellStroke">#2F4858</Color>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
